@@ -8,17 +8,17 @@ http://archive.ics.uci.edu/ml/datasets/Human+Activity+Recognition+Using+Smartpho
 And the raw data is available here, place this into your working directory
 https://d396qusza40orc.cloudfront.net/getdata%2Fprojectfiles%2FUCI%20HAR%20Dataset.zip
 
-Then you can run the r script run_analysis which is available in this repository
+Then you can run the r script run_analysis which is available in this repository  
 This will create a tidy dataset which contains the following
 
 # Identifiers
 
-subject: the identifier of the test subject (one of thirty people)
+subject: the identifier of the test subject (one of thirty people)  
 activity: the activity they were undertaking at the time
 
 # Features
 
-Columns in the final tidy dataset are the below
+Columns in the final tidy dataset are the below  
 Each has been summarised to average (mean) by subject and activity
 
 tBodyAcc-mean-X
