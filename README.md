@@ -10,6 +10,8 @@ This repository contains
 Experiments have been carried out with a group of 30 volunteers within an age bracket of 19-48 years. 
 Each person performed six activities (WALKING, WALKING_UPSTAIRS, WALKING_DOWNSTAIRS, SITTING, STANDING, LAYING) wearing a smartphone (Samsung Galaxy S II) on the waist. 
 
+This data has been captured and made available for public download. The files in this repository apply a level of cleaning and transformation so that this data is easier to use than it was when initially supplied.
+
 License:
 ========
 Use of this dataset in publications must be acknowledged by referencing the following publication [1] 
