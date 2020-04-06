@@ -26,21 +26,6 @@ The following files are available for the train and test data. Their description
 
 - 'train/subject_train.txt': Each row identifies the subject who performed the activity for each window sample
 
-# run_analysis script
-
-a. Download the dataset from the above link
-1. Load the tidyverse package and bring the core files into r environment
-2. Combine the test and train datasets
-
-3. Tidy the dataset for easier use
-3a. Assign the activity labels to be descriptive and not code based
-3b. Join those labels onto the y_file
-3c. Use the features file to provide the column names for x_train
-3d. Gather only columns which refer to the mean or standard deviation (std)
-3e. Drop () characters to make columns clearer
-
-4. Join labels into main dataset
-5. Produce summarised tidy dataset
 
 # Identifiers
 
