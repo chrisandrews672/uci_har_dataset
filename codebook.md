@@ -11,9 +11,20 @@ https://d396qusza40orc.cloudfront.net/getdata%2Fprojectfiles%2FUCI%20HAR%20Datas
 Then you can run the r script run_analysis which is available in this repository  
 This will create a tidy dataset which contains the following
 
-# Key files defined
+# Key files supplied as part of dataset
 
+- 'README.txt': Further information about the project
+- 'features_info.txt': Shows information about the variables used on the feature vector.
+- 'features.txt': List of all features (to be used as column headers)
+- 'activity_labels.txt': Links the class labels with their activity name.
+- 'train/X_train.txt': Training set.
+- 'train/y_train.txt': Training labels.
+- 'test/X_test.txt': Test set.
+- 'test/y_test.txt': Test labels.
 
+The following files are available for the train and test data. Their descriptions are equivalent. 
+
+- 'train/subject_train.txt': Each row identifies the subject who performed the activity for each window sample
 
 # run_analysis script
 
