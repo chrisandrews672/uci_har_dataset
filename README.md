@@ -3,8 +3,8 @@
 This repository contains
 
 - README: summary of dataset supplied and process to follow
-- codebook: description of the data used, outputs and process to follow
-- r_analysis script: r script to download and transform the dataset for use
+- codebook: description of the data used and outputs
+- run_analysis script: r script to download and transform the dataset for use
 - tidy dataset: final cleaned dataset for further use
 
 # Description of dataset supplied
@@ -16,7 +16,7 @@ This data has been captured and made available for public download. The files in
 
 # Dataset definitions are supplied in the codebook
 
-# Steps to follow to for run_analysis script
+# Steps in process of run_analysis script
 
 a. Download the dataset
 1. Load the tidyverse package and bring the core files into r environment
@@ -32,7 +32,7 @@ a. Download the dataset
 4. Join labels into main dataset
 5. Produce summarised tidy dataset
 
-License:
+License: For the dataset itself
 ========
 Use of this dataset in publications must be acknowledged by referencing the following publication [1] 
 
