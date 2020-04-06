@@ -3,7 +3,7 @@
 This repository contains
 
 - README: summary of dataset supplied and process to follow
-- codebook: description of the data used and the data used
+- codebook: description of the data used, outputs and process to follow
 - r_analysis script: r script to download and transform the dataset for use
 - tidy dataset: final cleaned dataset for further use
 
