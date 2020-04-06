@@ -1,4 +1,6 @@
-# This codebook is designed to assist the user in understanding the data set supplied and the steps taken to transform it
+# Codebook
+
+This codebook is designed to assist the user in understanding the data set supplied and the steps taken to transform it
 
 A full description of the project and dataset is supplied in the below link
 http://archive.ics.uci.edu/ml/datasets/Human+Activity+Recognition+Using+Smartphones
